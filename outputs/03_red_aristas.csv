@@ -1,0 +1,9 @@
+origen,destino,correlacion
+folioviv,entidad,0.9995240527523002
+folioviv,est_dis_x,0.9989684026976057
+folioviv,upm_x,0.9982975649535049
+acc_alim3,acc_alim4,0.7410434328344458
+autocons,negcua,0.8747636896923803
+entidad,est_dis_x,0.9990654874566703
+entidad,upm_x,0.9978321198726571
+est_dis_x,upm_x,0.9964052983827678
